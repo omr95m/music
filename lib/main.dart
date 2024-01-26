@@ -47,7 +47,8 @@ class Music extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: const Text(
-            'Naghmati',
+            //تبديل العنوان الى اللغة العربية
+            'نغماتي',
             style: TextStyle(color: Colors.white),
           ),
         ),
